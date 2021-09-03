@@ -1,0 +1,10 @@
+# InputType-Control
+![Screenshot_20210903-180756](https://user-images.githubusercontent.com/86973880/132006624-c4fb7231-7a40-4b5e-a964-dea47547d406.jpg)
+![Screenshot_20210903-180801](https://user-images.githubusercontent.com/86973880/132006632-549f8868-35e4-4363-a3a1-1da32fcdd4f1.jpg)
+![Screenshot_20210903-180807](https://user-images.githubusercontent.com/86973880/132006637-42e78bf7-c0e6-4aae-9715-d0a27b689e03.jpg)
+![Screenshot_20210903-180719](https://user-images.githubusercontent.com/86973880/132006638-29b1ada1-b235-4960-a6f6-3e4b812b8d4b.jpg)
+![Screenshot_20210903-180724](https://user-images.githubusercontent.com/86973880/132006641-c4f9a3b3-0a99-43ad-beb0-b7472f7fc761.jpg)
+![Screenshot_20210903-180731](https://user-images.githubusercontent.com/86973880/132006642-9f6892d6-001f-4ae1-b7fa-68e29b4513e0.jpg)
+![Screenshot_20210903-180738](https://user-images.githubusercontent.com/86973880/132006646-ef571913-a492-40a5-bad5-9e9b9384f87d.jpg)
+![Screenshot_20210903-180743](https://user-images.githubusercontent.com/86973880/132006649-f08babb1-ba94-4864-a055-a9ecd7676c11.jpg)
+![Screenshot_20210903-180751](https://user-images.githubusercontent.com/86973880/132006650-32353125-199c-4567-96d7-fc43564a42a5.jpg)
